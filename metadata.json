@@ -1,0 +1,5 @@
+{
+  "name": "MATCAL AI",
+  "description": "An intelligent calculator that solves basic math and complex word problems using AI, providing step-by-step explanations and interactive visual aids for geometry, functions, and complex numbers.",
+  "requestFramePermissions": ["microphone"]
+}
